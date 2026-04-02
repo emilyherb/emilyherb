@@ -41,7 +41,8 @@ You can also check out the [contributing guidelines] (https://github.com/usernam
 - [ ] Create tutorial videos
 
 Emojis
-:wink: :yum:
+:wink:
+:yum:
 
 We love open source! Let's build something amazing together!
 
@@ -57,12 +58,8 @@ Feel free to contribute and don't forget to star the repo!
 
 ### Comparison Table
 
------------------------------------------------------
 | Feature   | Basic Plan | Pro Plan  | Enterprise   |
------------------------------------------------------
+|-----------|------------|-----------|--------------|
 | Users     | 1-5        | 6-50      | Unlimited    |
------------------------------------------------------
 | Storage   | 10GB       | 100GB     | Custom       |
------------------------------------------------------
 | Support   | Email      | Priority  | 24/7 Phone   |
------------------------------------------------------
