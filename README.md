@@ -37,10 +37,10 @@ bs, computer science · minor in design
 
 ## ✨ a little more about me
 
-- 🪡 i make digital templates (canva girlie through and through)
+- 🪡 i make digital templates
 - 🛍️ passionate thrifter & secondhand fashion enthusiast
 - 🐇 proud mom of two bunnies
-- ✂️ former cosmetologist — yes, i can cut your hair *and* debug your css
+- ✂️ former cosmetologist
 
 ---
 
